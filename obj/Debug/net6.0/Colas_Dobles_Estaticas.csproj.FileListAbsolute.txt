@@ -1,0 +1,5 @@
+/run/media/alfredorios/GitHub/Colas_Dobles_Estaticas/obj/Debug/net6.0/Colas_Dobles_Estaticas.csproj.AssemblyReference.cache
+/run/media/alfredorios/GitHub/Colas_Dobles_Estaticas/obj/Debug/net6.0/Colas_Dobles_Estaticas.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/alfredorios/GitHub/Colas_Dobles_Estaticas/obj/Debug/net6.0/Colas_Dobles_Estaticas.AssemblyInfoInputs.cache
+/run/media/alfredorios/GitHub/Colas_Dobles_Estaticas/obj/Debug/net6.0/Colas_Dobles_Estaticas.AssemblyInfo.cs
+/run/media/alfredorios/GitHub/Colas_Dobles_Estaticas/obj/Debug/net6.0/Colas_Dobles_Estaticas.csproj.CoreCompileInputs.cache
